@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Banco de dados local
+db.sqlite3
+
+# Logs
+*.log
+
+# Arquivos de migração temporários
+*/migrations/__pycache__/
